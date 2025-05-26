@@ -3,3 +3,7 @@
 ```javascript
 var sheeps = 33;
 ``` 
+- [x] Salt
+- [x] Water
+- [ ] Cow
+- [x] Sheep
